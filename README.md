@@ -1,25 +1,21 @@
-- 👋 Hi, I’m @hero1435.
+👋 Hi, I’m Ahmed Fouda (@hero1435)
+I am a Gameplay Programmer and Technical Systems Architect with 4+ years of experience specializing in Unity and C#. I transition complex technical requirements into fluid, robust gameplay systems, with a heavy focus on deep performance profiling, 3D action mechanics, and secure multiplayer architectures.
 
-Hello! I'm Ahmed Fouda, a passionate 2D game developer specializing in Unity with C#. With 2 Years of experience, I've honed my skills in creating captivating and immersive gaming experiences. Whether it's designing intricate levels, implementing complex mechanics, or optimizing performance, I thrive on bringing ideas to life within the gaming world.
+🚀 What I Do
+1- High-Performance 3D Action: I engineer custom gameplay frameworks optimized for mobile and PC. I recently built "Fading Light," a Souls-like combat engine that maintains 200+ FPS on budget Android hardware through strict memory allocation, custom Blender-to-Unity pipelines, and zero-cost VFX.
 
-What I Offer:
+2- Server-Authoritative Multiplayer: I architect secure, zero-trust network models for multiplayer combat games. My netcode ensures critical game states and hit registrations are strictly validated server-side to prevent exploits.
 
-Unity Development: Proficient in leveraging Unity engine to craft visually stunning and engaging 2D games. From concept to execution, I ensure every detail contributes to an unforgettable player experience.
+3- Scalable Systems Architecture: I design modular, extensible C# frameworks, including hierarchical AI State Machines for complex boss encounters, dynamic inventory systems, and custom editor tools.
 
-C# Programming: Mastery in C# programming language allows me to implement game logic, UI/UX enhancements, and AI behaviors seamlessly, ensuring smooth gameplay mechanics.
+4- Spatial Computing: I am currently experimenting with AR Foundation and VR mechanics, applying my core engine knowledge to build low-latency interactions for the next generation of spatial computing.
 
-Frontend Web Development: Beyond game development, I'm adept at frontend web technologies including HTML, CSS, and JavaScript. I can create responsive and interactive web experiences tailored to your needs.
+💻 Tech Stack & Tools:
+1- Game Development: Unity (URP/HDRP), C#, Custom Editor Tooling
+2- 3D Art Pipelines: Blender (Rigging, IK Setups, Keyframe Baking, UV Mapping)
+3- Backend & Data: Server-Authoritative Netcode, Python, Flask APIs, MySQL, SQLite
+4- Other Languages & Web: JavaScript, HTML, CSS
 
-Python and Flask: Skilled in Python programming language and Flask framework, I can develop web applications and APIs to complement your gaming projects or standalone projects.
+Portfolio & Playable Builds: hero1435.itch.io
 
-Database Management: Proficient in MySQL and SQLite, I handle database design, optimization, and management efficiently, ensuring seamless integration with your applications.
-
-Why Choose Me:
-
-Passion for Innovation: I'm deeply passionate about pushing boundaries and exploring new technologies to deliver cutting-edge solutions that exceed expectations.
-
-Collaborative Approach: I believe in transparent communication and collaboration throughout the project lifecycle, ensuring your vision is realized with precision.
-
-Proven Track Record: With a portfolio of successful projects and satisfied clients, I bring expertise and reliability to every endeavor.
-
-Let's collaborate to turn your gaming ideas into reality! Feel free to reach out, and let's discuss how we can bring your vision to life.
+Status: Currently open to freelance contracts, remote collaborations, and long-term engineering roles.
